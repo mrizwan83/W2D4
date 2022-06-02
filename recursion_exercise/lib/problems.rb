@@ -112,3 +112,4 @@ def flatten(data)
     end
     flattened
 end
+
